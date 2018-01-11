@@ -1,0 +1,18 @@
+{
+  "name": "lex/mongodb-tree",
+  "authors": [
+    {
+      "name": "beyondlex",
+      "homepage": "https://github.com/beyondlex"
+    }
+  ],
+  "require": {
+    "kalnoy/nestedset": ">=4.3.1",
+    "jenssegers/mongodb": ">=3.3.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Lex\\Mongotree": "src/"
+    }
+  }
+}
