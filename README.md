@@ -13,7 +13,7 @@ Installation
 To install the package, in terminal:
 
 ```
-composer require beyondlex/mongotree
+composer require beyondlex/mongodb-tree
 ```
 
 #### The model
